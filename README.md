@@ -1,5 +1,5 @@
 <h1 align="center">CSCI 2000 - Scientific Data Analysis</h1> 
-<h2 align="center">Blog Report TITLE</h2> 
+<h2 align="center"> Student Exam Analytics </h2> 
 
 **Project Group 8 (Student names and Github Usernames);**
 - Emma Monson – EmmieSue
