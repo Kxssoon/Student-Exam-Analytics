@@ -100,10 +100,12 @@ Additionally, something that surprised us was the lack of correlation between th
 
 **Reflection**
 
-I learned that students who had parents who only have a high school education score less on tests than those whose parents did not graduate high school. I find that data odd because it differs from the overall trend of the graphs. I wonder if there is a reason why students whose parents did not graduate high school score better on tests than those who did. A theory could be that those students appreciate their education more considering it was something that their parents may not have had access to. These students were also the most likely to take the prep course prior to writing the exams (have the highest percentage of students who took the prep course).
+We learned that students who had parents who only have a high school education score less on tests than those whose parents did not graduate high school. We found that data odd because it differs from the overall trend of the graphs. This led us to wonder if there is a reason why students whose parents did not graduate high school score better on tests than those who did. A theory could be that those students appreciate their education more considering it was something that their parents may not have had access to. These students were also the most likely to take the prep course prior to writing the exams (have the highest percentage of students who took the prep course).
 
 
 **Refinement**
+
+If we were to improve the project, we would research the correlation between races and whether or not they took a test prep and if that influenced their scores on the exams. We could have also used a variety of graphs instead of just bar graphs to represent our data.
 
 
 # Acknowledgement
