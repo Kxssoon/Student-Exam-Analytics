@@ -1,5 +1,5 @@
 <h1 align="center">CSCI 2000 - Scientific Data Analysis</h1> 
-<h2 align="center"> How Students Perform on Exams Based on Cultural and Academic Background. </h2> 
+<h2 align="center"> How Students Perform on Exams Based on Cultural and Academic Background </h2> 
 
 **Project Group 8 (Student names and Github Usernames);**
 - Emma Monson – EmmieSue
